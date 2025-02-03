@@ -10,14 +10,15 @@ Este plugin tinha o objetivo de inserir uma mensagem no final de todo o conteúd
 
 ### 🗂️ Este repositório contém:
 
-*   **`client-customization.php`**: O código fonte do plugin WordPress corrigido, com a mensagem aparecendo apenas nos posts.
-*   **`documentation/technical.md`**: Documentação técnica com todos os detalhes da implementação, tempo gasto e referências.
-*   **`documentation/non-technical.md`**: A documentação não-técnica, explicando o problema e a solução em uma linguagem acessível para o cliente.
-*   **`README.md`**: Este arquivo, com informações sobre o repositório e como utilizá-lo.
+- **`client-customization.php`**: O código fonte do plugin WordPress corrigido, com a mensagem aparecendo apenas nos posts.
+- **`documentacao/tecnica.md`**: Documentação técnica com todos os detalhes da implementação, tempo gasto e referências.
+- **`documentacao/nao-tecnica.md`**: A documentação não-técnica, explicando o problema e a solução em uma linguagem acessível para o cliente.
+- **`README.md`**: Este arquivo, com informações sobre o repositório e como utilizá-lo.
 
 ## Código original
 
 O código original do plugin, antes da correção, era o seguinte:
+
 ```php
 <?php
 /**
@@ -46,7 +47,7 @@ return $content . $message;
 }, 10 );
 ```
 
-## ⚙️ Uso 
+## ⚙️ Uso
 
 1.  Baixe o plugin do [repositório](https://link_do_seu_repositorio).
 2.  Instale o plugin em seu WordPress.
