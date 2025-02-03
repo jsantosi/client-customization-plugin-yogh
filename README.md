@@ -6,7 +6,7 @@ Este é um plugin WordPress customizado criado para a Yogh - Especialista em Wor
 
 Este plugin tinha o objetivo de inserir uma mensagem no final de todo o conteúdo do site (posts e páginas).
 
-✔️ A tarefa consistiu em modificar o plugin para que a mensagem seja exibida apenas no final dos posts (artigos) e não mais nas páginas.
+✔️ A tarefa consistiu em alterar parte do plugin para que a mensagem seja exibida apenas no final dos posts (artigos) e não mais nas páginas. Conforme documentação do teste.
 
 ### 🗂️ Este repositório contém:
 
