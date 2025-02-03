@@ -1,6 +1,6 @@
-# Client Customization Plugin-YOGH 🚀
+# Client Customization Plugin-YOGH [Teste Técnico]🚀
 
-Este é um plugin WordPress customizado criado para a Yogh - Especialista em WordPress.
+Este é um plugin WordPress customizado para a Yogh - Especialista em WordPress.
 
 ## Descrição
 
